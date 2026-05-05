@@ -191,7 +191,7 @@ This project is for academic and research purposes.
 ## 👨‍💻 Author
 
 **Vitor Amadeu Souza**
-Electrical Engineering Professor & Researcher
+Computer Engineering Professor & Researcher
 Brazil
 
 ---
